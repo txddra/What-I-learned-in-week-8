@@ -22,3 +22,6 @@ you start with making the display in css : `flex`
 
 
 _column_ or _column-reverse_ and your main axis will run from the top of the page to the bottom — in the block direction.
+
+
+_ _justify-content_ property is used to align the flex
